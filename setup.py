@@ -10,7 +10,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 setup(
     name='taskdb',
     version='0.0.1',
-    description='TaskDB',
+    description='Task DB',
     long_description=long_description,
     url='https://github.com/kfichter/taskdb',
     author='Kelvin Fichter',
